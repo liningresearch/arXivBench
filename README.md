@@ -6,11 +6,6 @@
 
 First, please download our repo
 
-```
-git clone https://github.com/arxivBenchLLM/arXivBench.git
-cd arXivBench
-```
-
 Next, install the required libraries
 
 ```
@@ -52,18 +47,4 @@ Please go to the output directory to discover the model performance.
 
 Below is the overall workflow of our pipeline.
 <img src="Images/process_fig.jpg" alt="Image 1" style="width: 100%;"/>
-
-## Reference 
-If you find our code useful for your research, please consider citing our paper.
-```
-@misc{li2025arxivbenchllmsassistresearchers,
-      title={ArxivBench: Can LLMs Assist Researchers in Conducting Research?}, 
-      author={Ning Li and Jingran Zhang and Justin Cui},
-      year={2025},
-      eprint={2504.10496},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2504.10496}, 
-}
-```
 
