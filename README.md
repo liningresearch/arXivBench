@@ -5,10 +5,11 @@
 ## Get Started
 
 First, please download our repo
-'''
+
+```
 git clone https://github.com/liningresearch/arXivBench.git
 cd arXivBench
-'''
+```
 
 Next, install the required libraries
 
